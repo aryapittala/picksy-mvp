@@ -1,0 +1,39 @@
+{
+  "products": [
+    {
+      "id": "1",
+      "name": "Wireless Headphones",
+      "price": 1999,
+      "description": "High-quality wireless headphones with noise cancellation.",
+      "image": "https://picsum.photos/seed/headphones/400/400"
+    },
+    {
+      "id": "2",
+      "name": "Smart Watch",
+      "price": 2499,
+      "description": "Waterproof smart watch with multiple fitness features.",
+      "image": "https://picsum.photos/seed/smartwatch/400/400"
+    },
+    {
+      "id": "3",
+      "name": "Bluetooth Speaker",
+      "price": 1299,
+      "description": "Portable Bluetooth speaker with rich bass and clear sound.",
+      "image": "https://picsum.photos/seed/speaker/400/400"
+    },
+    {
+      "id": "4",
+      "name": "Gaming Mouse",
+      "price": 899,
+      "description": "Ergonomic gaming mouse with customizable RGB lighting.",
+      "image": "https://picsum.photos/seed/mouse/400/400"
+    },
+    {
+      "id": "5",
+      "name": "USB-C Hub",
+      "price": 699,
+      "description": "Multi-port USB-C hub for all your devices.",
+      "image": "https://picsum.photos/seed/hub/400/400"
+    }
+  ]
+}
